@@ -9,3 +9,6 @@ Browse individual files here: https://intelx.io/?s=6cffbc21-e38d-4b55-ab9b-882b5
 ## Rocket-Chat
 Tweet reference: https://twitter.com/ContiLeaks/status/1498550908879314947?s=20&t=ffUrj6MKdpeYK7-97Lc5rw<br>
 Original source: https://anonfiles.com/7eb2hcL6x8/rocket-chat_tgz<br>
+
+## TrickBot Forum (THANKS @vxunderground)
+Tweet reference: https://twitter.com/vxunderground/status/1498585322929770500?s=20&t=cRnqOQuw0nLASBCqK5IqZA
